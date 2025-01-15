@@ -10,12 +10,6 @@
 
 ---
 
-## 🖥️ Demonstração ao vivo
-Acesse a aplicação em: [EasySpend - Controle Financeiro](https://easyspend-ckdwtmjk4-lucas-projects-6c6902e1.vercel.app/sign-in)  
-
-
----
-
 ## 🚀 Tecnologias utilizadas
 - **Frontend**: [React](https://reactjs.org/), [Next.js](https://nextjs.org/)
 - **Backend**: [Node.Js](https://nodejs.org/pt) , [TypeScript](https://www.typescriptlang.org/)
